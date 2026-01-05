@@ -18,21 +18,7 @@ I’m **Axel Le Roux**, a Backend Developer at **Red Farmacias Moderna** in Vill
 - **Databases:** MySQL  
 - **DevOps & Containers:** Docker  
 - **Version Control:** Git  
-
----
-
-## 🌟 Featured Projects
-
-- **🗓️ Sistema de Gestión de Horarios**  
-  Un sistema web en Python/Flask que permite planificar y gestionar los turnos y horarios de los empleados de Farmacias Moderna, con filtros dinámicos por sucursal, estado y rango de fechas, y notificaciones automáticas.
-
-- **📱 App Móvil de Empleados**  
-  Aplicación móvil (React Native + Expo) que consume la misma API en Flask/MySQL. Los empleados pueden:
-  - Ver sus horarios y turnos asignados  
-  - Consultar beneficios y recibos  
-  - Mostrar y descargar su credencial corporativa  
-  - Acceder a noticias y documentos internos (PDFs)  
-
+ 
 ---
 
 ## 📫 Contact
