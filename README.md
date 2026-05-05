@@ -23,8 +23,7 @@ I’m **Axel Le Roux**, a Backend Developer at **Red Farmacias Moderna** in Vill
 
 ## 📫 Contact
 
-- ✉️ Personal: [lerouxaxel19@gmail.com](mailto:lerouxaxel19@gmail.com)  
-- 🏢 Corporativo: [axel.leroux@redmoderna.com.ar](mailto:axel.leroux@redmoderna.com.ar)  
+- ✉️ Personal: [lerouxaxel19@gmail.com](mailto:lerouxaxel19@gmail.com)   
 - 🔗 LinkedIn: [linkedin.com/in/axel-le-roux-a9b217242](https://www.linkedin.com/in/axel-le-roux-a9b217242/)
 
 ---
